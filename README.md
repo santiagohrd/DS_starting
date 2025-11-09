@@ -4,7 +4,7 @@ This project serves as an introduction to the fundamental steps of data science,
 
 The primary objective of this phase is to understand the relationships between various housing features (like square footage, quality, and location) and the final sale price, while also cleaning the data to prepare it for machine learning model training.
 
-[Software Demo Video]()
+[Software Demo Video](https://www.loom.com/share/2fe393709d0147b9adbc73c121eab971)
 
 # Development Environment
 
